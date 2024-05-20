@@ -3,4 +3,4 @@ dino juego
 
 #Espesificaciones de godot:
 1.-**vercion 4.0**
-1.-Author: King
+2.-Author: King
